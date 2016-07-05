@@ -1,4 +1,4 @@
-# [RefugeesWork.com](www.refugeeswork.com)
+# RefugeesWork
 
 ## => [ONBOARDING (for contributors)](https://waffle.io/RefugeesWork/organization/cards/577af4d6ce6b3a1e00774c5c)
 
