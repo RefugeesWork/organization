@@ -1,13 +1,7 @@
 # [RefugeesWork.com](www.refugeeswork.com)
 
-## AIM:
-**To create opportunity for people to be paid for their skills.**
+## [ONBOARDING (for contributors)](https://waffle.io/RefugeesWork/organization/cards/577af4d6ce6b3a1e00774c5c)
 
-## WHAT:
-**Tool for newcomers to find freelance work.**
+## [Our Mission](https://waffle.io/RefugeesWork/organization/cards/577a7e8fd4e2435b012bba41)
 
-## HOW:
-**Web app (mobile friendly)**
-
-
-
+## [Get in touch](https://waffle.io/RefugeesWork/roadmap)
