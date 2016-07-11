@@ -1,10 +1,19 @@
-# RefugeesWork - Onboarding :-)
+## RefugeesWork - Onboarding :-)
+
+---
 
 ### 1. => [Check our service (refugeeswork.com)](http://www.refugeeswork.com/)
 
 ### 2. => [Meet us online :-)](https://gitter.im/RefugeesWork/Chat)
 
-### 3. => [Join our Mission](https://waffle.io/RefugeesWork/organization/cards/577a7e8fd4e2435b012bba41)
+### 3. => [Join our mission](https://waffle.io/RefugeesWork/organization/cards/577a7e8fd4e2435b012bba41)
+#### Our **mission** is structured into
+* several `activity fields`, each with it's own `goal`
+* and attached `TASKS`, which are either:
+  * `ideas` as normal bullet points => feel free to add/refine them
+  * `issues` as linked bullet points => feel free to **just do them** :-)
+
+You can involve yourself as much as you can afford. Feel free to start contributing :-)
 
 ---
 
