@@ -25,30 +25,32 @@
 
 ## Our core values
 
-### Open Organisation & Transparency
-  * Our processes, finances and organization are completely transparent.
-  * Our project is part of [SquatUp - open collective](https://github.com/squatup).
+### Open Source & transparency
+  * Our organizational structure, processes and finances are completely transparent
 
-### Open Culture of Collaboration
-  * We introduce newcomers to different state-of-the-art tools & methods for self-directed collaboration.
+### Collaboration
+  * We introduce newcomers to different state-of-the-art tools & methods for self-directed remote collaboration.
   * Individuals are encouraged to collaborate on projects & to invite others to join their projects.
 
-### Open Source & Sharing
-  * We create a knowledge sharing movement.
-  * Newcomers share progress and questions openly to inspire others and to get feedback from their peers.
+### Sharing culture
+  * Newcomers share progress and questions openly to inspire others and to learn from their peers.
   * All our learning materials are also available for free and we hope for an open debate and contributions from the community.
+
+### "Do It Yourself" Spirit
+  * Visible progress is the best motivator for success so newcomers are empowered to kickstart their self-employment.
+  * We teach newcomers quick organized prototyping and encourage entrepreneurial thinking and a hands-on approach.
   
 ### Literacy
   * Programming (coding) is a new literacy. All the jobs in the future will include some level of programming.
   * We mentor newcomers to become literate in developing and deploying solutions for tomorrow.
 
 ### Inclusiveness
-  * RefugeesWork connects all genders, backgrounds, experience levels & age in an open and safe learning and collaborative environment.
+  * RefugeesWork connects people of all ages, genders, backgrounds & experience levels in an open and safe learning and collaborative environment.
   * We support the [Berlin Code of Conduct](http://berlincodeofconduct.org/) and humble & friendly communication, so no one feels shy asking any questions.
 
-### "Do It Yourself" Spirit
-  * Visible progress is the best motivator for success so newcomers are empowered to kickstart their self-employment.
-  * We teach newcomers quick organized prototyping and encourage entrepreneurial thinking and a hands-on approach.
+### Open Organization
+  * Everybody is welcome to join
+  * Our project is part of [SquatUp - open collective](https://github.com/squatup).
 
 ---
 
