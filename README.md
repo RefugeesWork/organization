@@ -1,17 +1,23 @@
-# About
-We manage our work on [`Waffle`](https://waffle.io/RefugeesWork/organization) and [`Github issues`](https://github.com/RefugeesWork/organization/issues) and communicate happens on [`Gitter chat`](www.gitter.im/RefugeesWork/Chat)
-
----
 
 # Mission
-**[`Refugeeswork.com`](www.refugeeswork.com) is a mobile friendly app for newcomers to find freelance work**  
-We build a tool that empowers people with an entrepreneurial spirit to kickstart their self employment, develop their skills and get paid for it. 
+**[`Refugeeswork.com`](www.refugeeswork.com) is a tool for newcomers to find freelance work**  
 
-Our program includes:
+### With us
 
-- learning digital skills/programming
-- support with free consulting (online & offline) to help with all the bureaucracy 
-- membership in a collective of digital professionals and help with finding customers and partners to make self employment sustainable
+**Newcomers are able to:**
+
+- learn digital skills/programming
+- get support (online & offline) with all the bureaucracy 
+- become members in a collective of digital professionals and get help with finding customers and partners to make self employment sustainable
+- 
+**Companies are able to:**
+
+- outsource digital work
+- help newcomers re-start in their new home countries
+
+**Partners are able to:**
+
+- connect with a range of organizations with strong commitment to serving the needs of vulnerable and/or excluded populations, either through offering help with space and mentorship or with connecting newcomers to the market opportunities. 
 
 ---
 
@@ -45,6 +51,7 @@ Our program includes:
 ---
 
 ## Current tasks
+We manage our work on [`Waffle`](https://waffle.io/RefugeesWork/organization) and [`Github issues`](https://github.com/RefugeesWork/organization/issues) and communicate on [`Gitter chat`](www.gitter.im/RefugeesWork/Chat)
 
 ### 1. Product Development (App Features)
 **GOAL:** Improve our core service http://refugeeswork.com
