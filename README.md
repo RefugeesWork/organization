@@ -19,7 +19,7 @@ Our program includes:
 
 ### Open Organisation & Transparency
   * Our processes, finances and organization are completely transparent.
-  * Want to join our mission? [Please get in touch] (https://gitter.im/RefugeesWork/Chat)
+  * Our project is part of [SquatUp - open collective](https://github.com/squatup).
 
 ### Open Culture of Collaboration
   * We introduce newcomers to different state-of-the-art tools & methods for self-directed collaboration.
