@@ -10,7 +10,7 @@ Our program includes:
 
 - learning digital skills/programming
 - support with free consulting (online & offline) to help with all the bureaucracy 
-- membership in a collective of digital proffesionals and help with finding customers and partners to make self employment sustainable
+- membership in a collective of digital professionals and help with finding customers and partners to make self employment sustainable
 
 ---
 
