@@ -1,5 +1,5 @@
 # About
-Our [RefugeesWork app](www.refugeeswork.com) || All our communication is on [Gitter chat](www.gitter.im/RefugeesWork/Chat) || We organise our work on [Waffle](https://waffle.io/RefugeesWork/organization) and [Github](https://github.com/RefugeesWork/organization/issues)
+We manage our work on [`Waffle`](https://waffle.io/RefugeesWork/organization) and [`Github issues`](https://github.com/RefugeesWork/organization/issues) and communicate happens on [`Gitter chat`](www.gitter.im/RefugeesWork/Chat)
 
 ---
 
