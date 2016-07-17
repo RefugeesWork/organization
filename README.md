@@ -9,11 +9,13 @@
 - learn digital skills/programming
 - get support (online & offline) with all the bureaucracy 
 - become members in a collective of digital professionals and get help with finding customers and partners to make self employment sustainable
-- 
+
+
 **Companies are able to:**
 
 - outsource digital work
 - help newcomers re-start in their new home countries
+
 
 **Partners are able to:**
 
@@ -21,7 +23,7 @@
 
 ---
 
-## Our goals and values
+## Our core values
 
 ### Open Organisation & Transparency
   * Our processes, finances and organization are completely transparent.
