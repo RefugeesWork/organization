@@ -1,4 +1,9 @@
 
+# Current Tasks
+**Please Check our waffle board**
+https://waffle.io/RefugeesWork/organization
+
+
 # Mission
 **[`Refugeeswork.com`](www.refugeeswork.com) is a tool for newcomers to find freelance work**  
 
@@ -51,38 +56,3 @@
 ### Open Organization
   * Everybody is welcome to join
   * Our project is part of [SquatUp - open collective](https://github.com/squatup).
-
----
-
-## Current tasks
-
-**Please check our waffle board to see what is currently going on**
-=> https://waffle.io/RefugeesWork/organization
-
-The idea is to help newcomers (and anyone who wants to join) learn the skills, meet other professionals and to get in paid projects that are then done together with different professionals in the community.
-
-Currently we focus on 3 major modules:
-
-**RefugeesWork**  
-1. WIZARD AMIGOS - teaching digital skills
-* **WizardAmigos App**  
-  * Edit and upload learning videos
-  * Get computers for Refugees
-  * Funnel WizardAmigos
-
-2. CODING AMIGOS - building international community of digital professionals
-* **Funnel CodingAmigos**
-  * Have regular meetings to code and learn together
-
-3. WORKING AMIGOS - getting clients/ digital collective/agency
-* **Working Amigos App**
-  * create an interactive form to help clients get started
-
-4. Other
-* Funnel Refugees Work
-* OKLab funding
-* Interview Trebor Scholz
-* Platform cooperativism
-* Refugee Statistics Research & Analysis
-* RefugeesWork website
-* OKLab presentation
