@@ -56,7 +56,7 @@
 
 ## Current tasks
 
-** Please check our waffle board to see what is currently going on**
+**Please check our waffle board to see what is currently going on**
 => https://waffle.io/RefugeesWork/organization
 
 The idea is to help newcomers (and anyone who wants to join) learn the skills, meet other professionals and to get in paid projects that are then done together with different professionals in the community.
