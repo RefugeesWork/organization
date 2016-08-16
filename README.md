@@ -69,12 +69,15 @@ Currently we focus on 3 major modules:
   * Edit and upload learning videos
   * Get computers for Refugees
   * Funnel WizardAmigos
+
 2. CODING AMIGOS - building international community of digital professionals
 * **Funnel CodingAmigos**
   * Have regular meetings to code and learn together
+
 3. WORKING AMIGOS - getting clients/ digital collective/agency
 * **Working Amigos App**
   * create an interactive form to help clients get started
+
 4. Other
 * Funnel Refugees Work
 * OKLab funding
