@@ -56,29 +56,30 @@
 
 ## Current tasks
 
+** Please check our waffle board to see what is currently going on**
+=> https://waffle.io/RefugeesWork/organization
+
+The idea is to help newcomers (and anyone who wants to join) learn the skills, meet other professionals and to get in paid projects that are then done together with different professionals in the community.
+
 Currently we focus on 3 major modules:
 
-RefugeesWork
+**RefugeesWork**  
 1. WIZARD AMIGOS - teaching digital skills
-
-WizardAmigos App
-Edit and upload learning videos
-Get computers for Refugees
-Funnel WizardAmigos
-
+* **WizardAmigos App**  
+  * Edit and upload learning videos
+  * Get computers for Refugees
+  * Funnel WizardAmigos
 2. CODING AMIGOS - building international community of digital professionals
-
-Funnel CodingAmigos
-
+* **Funnel CodingAmigos**
+  * Have regular meetings to code and learn together
 3. WORKING AMIGOS - getting clients/ digital collective/agency
-
+* **Working Amigos App**
+  * create an interactive form to help clients get started
 4. Other
-
-Funnel Refugees Work
-OKLab funding
-Interview Trebor Scholz
-Platform cooperativism
-Refugee Statistics Research & Analysis
-RefugeesWork website
-OKLab presentation
-The idea is to help newcomers (and anyone who wants to join) learn the skills, meet other professionals and to get in paid projects that are then done together with different professionals in the community.
+* Funnel Refugees Work
+* OKLab funding
+* Interview Trebor Scholz
+* Platform cooperativism
+* Refugee Statistics Research & Analysis
+* RefugeesWork website
+* OKLab presentation
