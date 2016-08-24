@@ -1,8 +1,9 @@
 
 # Current Tasks
-**Please Check our waffle board**
+**Please Check our Waffle board**
 https://waffle.io/RefugeesWork/organization
-
+**Ask us anything on our chat**
+https://gitter.im/RefugeesWork/Chat
 
 # Mission
 **[`Refugeeswork.com`](www.refugeeswork.com) is a tool for newcomers to find freelance work**  
