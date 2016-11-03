@@ -1,60 +1,56 @@
+# Refugeeswork.com 
+is a tool for newcomers to find freelance work
 
-# Current Tasks
-**Please Check our Waffle board**
-https://waffle.io/RefugeesWork/organization
+[refugeeswork.com](http://www.refugeeswork.com)
 
-**Ask us anything on our chat**
-https://gitter.im/RefugeesWork/Chat
+Our program is **online** and for **free**. It empowers people with an entrepreneurial spirit to kickstart their self employment, develop their skills and get paid for it. 
 
-# Mission
-**[`Refugeeswork.com`](www.refugeeswork.com) is a tool for newcomers to find freelance work**  
+It includes:
 
-### With us
+* bootstrapping a new self employed existance by creating a business plan starting from just an idea
+* supporting them with free consulting (online & offline) to help with all the bureaucracy and legal oblications, like "open a bank account", "register for a taxnumber", "do accounting and annual tax returns", etc...
+* helping them to start their operations, which includes finding customers and partners to make their self employment sustainable
 
-**Newcomers are able to:**
+To help newcomers become successful freelancer/solopreneur, we also created a [Wizard Amigos e-school for programming](http://wizardamigos.com) and meetups, where learners can meet with other learners and more experience developers (see [Coding Amigos] (http://www.meetup.com/codingamigos)).
 
-- learn digital skills/programming
-- get support (online & offline) with all the bureaucracy 
-- become members in a collective of digital professionals and get help with finding customers and partners to make self employment sustainable
+## Ecosystem
+* LEARN with e-learning platform - [WizardAmigos](http://www.wizardamigos.com)
+* MEET at local meetups - [CodingAmigos](http://www.codingamigos)
+* WORK with co-owned marketplace - [WorkingAmigos - comming soon] ()
+    * in the context of Refugees - [RefugeesWork marketplace](http://www.refugeeswork)
 
+## Usage
 
-**Companies are able to:**
+```
+$ clone https://github.com/ninabreznik/RefugeesWork
 
-- outsource digital work
-- help newcomers re-start in their new home countries
+$ bundle install
 
+$ rake db:create
 
-**Partners are able to:**
+$ rake db:migrate
 
-- connect with a range of organizations with strong commitment to serving the needs of vulnerable and/or excluded populations, either through offering help with space and mentorship or with connecting newcomers to the market opportunities. 
+$ npm install stylus, jeet, rupture
 
----
+#run console, to create entries to your local DB
+$ rails c 
 
-## Our core values
+#run rails server
+$ rails s 
 
-### Open Source & transparency
-  * Our organizational structure, processes and finances are completely transparent
+#run stylus in separate terminal tab to apply styling changes
+$ stylus -u jeet -u rupture -u axis -w public/app.styl -o app/assets/stylesheets/ -l 
 
-### Collaboration
-  * We introduce newcomers to different state-of-the-art tools & methods for self-directed remote collaboration.
-  * Individuals are encouraged to collaborate on projects & to invite others to join their projects.
+# to host the app, you can use free Heroku services
+```
 
-### Sharing culture
-  * Newcomers share progress and questions openly to inspire others and to learn from their peers.
-  * All our learning materials are also available for free and we hope for an open debate and contributions from the community.
+### Want to start a local chapter and need help? 
+[![](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/RefugeesWork/Chat)
 
-### "Do It Yourself" Spirit
-  * Visible progress is the best motivator for success so newcomers are empowered to kickstart their self-employment.
-  * We teach newcomers quick organized prototyping and encourage entrepreneurial thinking and a hands-on approach.
-  
-### Literacy
-  * Programming (coding) is a new literacy. All the jobs in the future will include some level of programming.
-  * We mentor newcomers to become literate in developing and deploying solutions for tomorrow.
+## Contributing
 
-### Inclusiveness
-  * RefugeesWork connects people of all ages, genders, backgrounds & experience levels in an open and safe learning and collaborative environment.
-  * We support the [Berlin Code of Conduct](http://berlincodeofconduct.org/) and humble & friendly communication, so no one feels shy asking any questions.
+If you **have a question**, **found a bug** or want to **propose a feature**, have a look at [the issues page](https://github.com/RefugeesWork/webapp/issues).
 
-### Open Organization
-  * Everybody is welcome to join
-  * Our project is part of [SquatUp - open collective](https://github.com/squatup).
+## License
+
+MIT
